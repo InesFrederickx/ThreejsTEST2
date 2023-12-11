@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Whisper', cursive;
-    background-color: #290D25;
+    background-color: #120610;
 }
 
 header {
@@ -11,8 +11,8 @@ header {
 }
 
 header h1 {
-    font-size: 2em;
-    font-weight: 900;
+    font-size: 4em;
+    font-weight: 300;
 }
 
 #container3D canvas {
